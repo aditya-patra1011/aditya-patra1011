@@ -43,6 +43,7 @@
 - Strengthening **SQL** fundamentals
 - Building **projects**
 - Advancing Python skills with a focus on applications in **AI, ML, and Data Science**
+- Expanding knowledge in data communication and networking
 - Applying Data Analysis and Preprocessing skills to real-world datasets
 - Diving deep into **Cybersecurity and Ethical Hacking**
 

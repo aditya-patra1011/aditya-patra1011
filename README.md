@@ -19,6 +19,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -46,6 +47,7 @@
 - Expanding knowledge in data communication and networking
 - Applying Data Analysis and Preprocessing skills to real-world datasets
 - Diving deep into **Data Analysis** and **Cybersecurity and Ethical Hacking**
+- Currently learning Power BI to strengthen my data visualization and BI skills
 
 ---
 

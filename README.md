@@ -1,6 +1,6 @@
 # 👋 Hey, I'm M. Aditya Patra
 
-🎓 2nd Year **Computer Science Engineering** student<br>
+🎓 3rd Year **Computer Science Engineering** student<br>
 💻 Working primarily with **Python, Java, and MySQL**<br>
 📊 Skilled in Data Analysis & Preprocessing using Python and Pandas
 🚀 Focused on improving problem-solving skills and building strong fundamentals<br>

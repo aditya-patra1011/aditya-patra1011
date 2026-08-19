@@ -71,9 +71,9 @@ MySQL database project archiving football data with structured querying.
 
 ## 📈 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-patra1011&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-patra1011&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya-patra1011&theme=tokyonight&hide_border=true)
+![Stats](./profile/stats.svg)<br>
+![Top Languages](./profile/top-langs.svg)<br>
+![BoxBox Pin](./profile/pin-boxbox.svg)
 
 ---
 

@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=aditya-patra1011&repo=BoxBox
+          options: username=aditya-patra1011&repo=boxbox_strategy_intelligence
           path: profile/pin-boxbox.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit cards

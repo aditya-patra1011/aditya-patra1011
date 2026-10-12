@@ -69,14 +69,6 @@ MySQL database project archiving football data with structured querying.
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](./profile/stats.svg)<br>
-![Top Languages](./profile/top-langs.svg)<br>
-![BoxBox Pin](./profile/pin-boxbox.svg)
-
----
-
 ## 📚 Education
 
 - **B.Tech in Computer Science Engineering** — D.Y. Patil International University, Pune

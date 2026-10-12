@@ -10,16 +10,16 @@
 ## 🏆 Featured Projects
 
 ### 🏎️ [BoxBox](https://github.com/aditya-patra1011/boxbox_strategy_intelligence) — F1 Race Strategy & Tire Modeling Dashboard
-Python + Streamlit dashboard with 6 trained ML models predicting tire degradation and race strategy, SHAP explainability, and interactive Plotly circuit visualizations. Built on FastF1 data.
+Python + Dash Plotly dashboard with 6 trained ML models predicting tire degradation and race strategy, SHAP explainability, and interactive Plotly circuit visualizations. Built on FastF1 data.
 
 ### 🪐 [Kepler Exoplanet Classifier](https://github.com/aditya-patra1011/kepler-exoplanet-classification)
-ML classifier achieving 99%+ accuracy on exoplanet detection, with an interactive Streamlit dashboard using a dark Plotly theme.
+Classifies Kepler objects as confirmed planets or false positives, and audits how much of the 0.996 F1 comes from NASA’s vetting flags rather than raw measurements (0.94 without them).
 
-### ❤️ [Heart Disease Prediction](https://github.com/aditya-patra1011/Healthcare-Data-Analysis-Project)
+### 🪐 [Exoplanet Habitability](https://github.com/aditya-patra1011/exoplanet-habitability-project)
+Predicts which unresolved Kepler candidates are likely real planets, then scores them and confirmed planets for habitable-zone status and Earth Similarity.
+
+### ❤️ [Heart Disease Prediction](https://github.com/aditya-patra1011/Healthcare-Data-Analysis-Projec)
 Six-phase ML pipeline connected via pickle state files, covering preprocessing through model evaluation.
-
-### 🛡️ [KDD Cup 99 Network Intrusion Detection](https://github.com/aditya-patra1011/Network-Intrusion-Cybersecurity-Analysis)
-Classification system for detecting network intrusions using the KDD Cup 99 dataset.
 
 ### ⚽ [Football Archive](https://github.com/aditya-patra1011/football-archive)
 MySQL database project archiving football data with structured querying.

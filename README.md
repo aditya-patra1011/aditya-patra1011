@@ -54,18 +54,19 @@ MySQL database project archiving football data with structured querying.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 - **Languages**: Python, Java, SQL, C
-- **ML/Data**: scikit-learn, Pandas, NumPy, SHAP, Streamlit, Plotly, Power BI
+- **ML/Data**: scikit-learn, Pandas, NumPy, SHAP, PyTorch, TensorFlow/Keras, SHAP, Streamlit, Plotly, Power BI
 - **Core CS**: DSA, OOP, MySQL
-- **Tools**: VS Code, Git, GitHub, FastAPI
+- **Tools**: VS Code, Git, GitHub, FastAPI, Docker
 
 ---
 
 ## 🧠 Current Focus
 
-- Enhancing BoxBox with a FastAPI backend and improved frontend
+- Deploying BoxBox online, and working on ML Engineering projects
 - Deepening ML fundamentals — model evaluation, avoiding data leakage/overfitting, SHAP interpretability
 - Applying data analysis and ML skills to real-world datasets
 - Strengthening SQL and database design (star schemas, window functions, CTEs)
+- Focusing on the core of Artificial Intelligence, and AI Agents
 
 ---
 
